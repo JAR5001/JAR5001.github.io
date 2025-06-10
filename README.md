@@ -6,4 +6,4 @@ You can reach me at [LinkedIn](https://www.linkedin.com/in/jennifer-gilby-robert
 
 ## PROJECTS
 
-[Predicting University Student Dropout](https://github.com/JAR5001/university-dropout)
+[Predicting Student Dropout in Higher Education](https://github.com/JAR5001/university-dropout)
